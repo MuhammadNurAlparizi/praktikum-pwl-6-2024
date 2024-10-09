@@ -1,2 +1,1 @@
-Ini adalah file pertama
-Menambahkan baris kedua ke file pertama
+Hallo Nama Saya Alparizi
